@@ -23,7 +23,7 @@
             <div><a class="navbar-brand" href="#"><span>Covid19 Dashboard India</span> </a><button data-bs-toggle="collapse" class="navbar-toggler" data-bs-target="#navcol-1"><span class="visually-hidden">Toggle navigation</span><span class="navbar-toggler-icon"></span></button></div>
             <div class="collapse navbar-collapse" id="navcol-1">
                 <ul class="navbar-nav nav-right">
-                    <li class="nav-item"><a class="nav-link active" href="index.html" style="color: #888888;">Home</a></li>
+                    <li class="nav-item"><a class="nav-link active" href="index.php" style="color: #888888;">Home</a></li>
                     <li class="nav-item"><a class="nav-link" href="#" style="color: #888888;">Graphs</a></li>
                     <li class="nav-item"></li>
                     <li class="nav-item"><a class="nav-link" href="faq.html" style="color: #888888;">World</a></li>
